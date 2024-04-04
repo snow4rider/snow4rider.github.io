@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snow4rider&label=Profile%20views&color=0e75b6&style=flat" alt="snow4rider" /> </p>
 
-- 🌱 I’m currently learning **Flask, Vue,**
+- 🌱 I’m currently working on getting better at **cmake, c++, and go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/snow4rider](https://github.com/snow4rider)
 
